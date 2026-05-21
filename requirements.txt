@@ -1,0 +1,5 @@
+# Build-recipe inference agent — v1 dependency surface.
+# Python 3.12. Pinned versions per project commit-hygiene rules.
+
+anthropic==0.42.0
+docker==7.1.0
