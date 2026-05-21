@@ -1,6 +1,6 @@
 # Research-Project-David-Gusmao
 
-LLM agent that, given an arbitrary source tarball, infers and executes a reproducible build recipe — installing dependencies, selecting the toolchain, and running build phases — inside an isolated container.
+LLM agent that, given an arbitrary source tarball, infers and executes a reproducible build recipe: installing dependencies, selecting the toolchain, and running build phases all inside an isolated container.
 
 Undergraduate research project in Paul Gazzillo's lab at the University of Central Florida.
 
@@ -36,4 +36,4 @@ build_agent/
 
 ## License
 
-Pending — to be confirmed with the advisor before adding.
+Pending to be confirmed with the advisor before adding.
