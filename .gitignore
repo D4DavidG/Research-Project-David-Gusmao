@@ -1,8 +1,9 @@
 # --- Local Claude context (personal, not for the repo) ---
-CLAUDE.md
 CaludeResearchInstructions.txt
 ClaudeMemory.txt
 HANDOFF.md
+memory
+memory/
 
 # --- Secrets ---
 .env
