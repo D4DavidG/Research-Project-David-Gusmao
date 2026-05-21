@@ -2,6 +2,7 @@
 CLAUDE.md
 CaludeResearchInstructions.txt
 ClaudeMemory.txt
+HANDOFF.md
 
 # --- Secrets ---
 .env
